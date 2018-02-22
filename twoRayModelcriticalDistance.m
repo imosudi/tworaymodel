@@ -1,3 +1,6 @@
+%% INITIAL CODE
+%% Check the scripts directory for the updates
+
 ld=0:0.0005:5; %define lowest distance, farthest distance and the iteration step
 %%Declaring Variables
     d=10.^ld; 
